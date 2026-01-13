@@ -2,6 +2,9 @@
 
 Este projeto é um site educacional que utiliza tecnologias web para apresentar a história de Roma de forma dinâmica. O destaque técnico é a pirâmide social interativa desenvolvida com CSS e JS.
 
+## 🔗 Demonstração
+> **Acesse o projeto aqui:** <br>(https://samiratoledo.github.io/roma-antiga/) 🚀
+
 ## 🛠️ Tecnologias e Conceitos Aplicados
 - **HTML5 Semântico:** Organização de seções, listas e hierarquia de títulos.
 - **CSS3 Avançado:** Uso de `clip-path` para formas geométricas, `flexbox` para layouts responsivos e `scroll-behavior: smooth`.
